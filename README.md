@@ -29,5 +29,5 @@ Used Tableau’s built-in `Sample Superstore` dataset
 ## 👤 Author
 **Shubham Chauhan**  
 Data Analyst | SQL • Tableau • Power BI • Python  
-📧 shubham@email.com  
+📧 shubhamchauhan8484@email.com  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/shubham-c-431878165/)
